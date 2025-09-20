@@ -1,3 +1,4 @@
+
 // App.js
 import React from 'react';
 import { SafeAreaView } from 'react-native';
@@ -14,3 +15,4 @@ const App = () => {
 };
 
 export default App;
+
