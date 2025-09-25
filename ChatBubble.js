@@ -17,3 +17,4 @@ export default function ChatBubble({ text, isMe }) {
     </View>
   );
 }
+// huhu
